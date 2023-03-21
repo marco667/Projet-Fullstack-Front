@@ -1,0 +1,8 @@
+//GET http://localhost:3000/bd_Boss
+
+
+GET http://localhost:3000/bd_Boss/movies
+
+
+
+//GET http://localhost:3000/bd_Boss/users
